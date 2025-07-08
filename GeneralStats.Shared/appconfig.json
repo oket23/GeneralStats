@@ -1,0 +1,17 @@
+{
+  "BS": {
+    "Authorization": "authorization"
+  },
+  "COC": {
+    "Authorization": "authorization"
+  },
+  "CR": {
+    "Authorization": "authorization"
+  },
+  "Logging": {
+    "LogPath": "path"
+  },
+  "Tg": {
+    "Token": "token"
+  }
+}
